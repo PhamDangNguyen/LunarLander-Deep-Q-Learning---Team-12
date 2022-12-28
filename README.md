@@ -1,6 +1,6 @@
 # RBE3043_20 - Nhóm12 & Lunar Lander game
 ## Overview
-Trong đề tài này, mục tiêu của nhóm là hiểu ảnh hưởng của số điwn vị mạng Neural Network và các hyperparameters như discount rate, learning rate, decay đối với hiệu suất học tập của thuật toán thông qua tốc độ và độ ổn định.
+Trong đề tài này, mục tiêu của nhóm là hiểu ảnh hưởng của số đơn vị mạng Neural Network và các hyperparameters như discount rate, learning rate, decay đối với hiệu suất học tập của thuật toán thông qua tốc độ và độ ổn định.
 ## Introduction
 ### Partner
 * Phạm Đăng Nguyên - 19020589_UET
