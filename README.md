@@ -43,3 +43,5 @@ Trong đề tài này, mục tiêu của nhóm là hiểu ảnh hưởng của s
 * Step 4: Chạy câu lệnh pip install -r "path-to-requirements.txt" ở phần Console để install các thư viện cần thiết.
 * Step 5: Kiểm tra notebook đã chạy Python và cài đặt chạy bằng GPU chưa, với GPU thì có thể vào 'Runtime' chọn 'Change runtime type' rồi chọn GPU để bật![example](anh_4.jpg)
 * Step 7: Dùng 'Runall' để chạy toàn bộ notebook hoặc có thể chạy từng câu lệnh để kiểm tra như được hướng dẫn bên trên.
+# Kết quat thuật toán, con tàu đã dừng đúng nơi quy định:
+https://user-images.githubusercontent.com/86046279/209752037-ea7ba392-b6ff-49f2-8f62-d4331c66ad35.mp4
